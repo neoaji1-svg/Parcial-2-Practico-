@@ -57,7 +57,8 @@ El proyecto está estructurado de manera modular siguiendo las buenas prácticas
 ![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/6a972a95264f11fa2fe4d21122b1fb8d436c33b9/Capturas/Menuretractil.png)
 
 ### 3. Validaciones de Errores
-*(Aquí puedes adjuntar una captura del mensaje de error cuando los datos de acceso son incorrectos)*
+![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/2854feeabc77d8a1928c45f93519a6f192eb217c/Capturas/Validacion%201.png)
+![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/2854feeabc77d8a1928c45f93519a6f192eb217c/Capturas/Validacion%202.png)
 
 ---
 
