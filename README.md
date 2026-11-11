@@ -51,10 +51,8 @@ El proyecto está estructurado de manera modular siguiendo las buenas prácticas
 ## 🖼️ Imágenes de Resultados
 
 ### 1. Pantalla de Inicio de Sesión (Login)
-*(Aquí puedes adjuntar una captura de tu pantalla de login validando credenciales)*
 ![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/6a972a95264f11fa2fe4d21122b1fb8d436c33b9/Capturas/Login.png)
 ### 2. Formulario Principal (MDI) y Menú Lateral
-*(Aquí puedes adjuntar una captura del `FrmPrincipal` con el menú lateral negro, la hora en tiempo real y el usuario logueado en la esquina inferior)*
 ![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/6a972a95264f11fa2fe4d21122b1fb8d436c33b9/Capturas/frmprincipal.png)
 ![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/6a972a95264f11fa2fe4d21122b1fb8d436c33b9/Capturas/Menuretractil.png)
 
