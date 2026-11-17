@@ -54,7 +54,7 @@ El proyecto está estructurado de manera modular siguiendo las buenas prácticas
 ![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/6a972a95264f11fa2fe4d21122b1fb8d436c33b9/Capturas/Login.png)
 ### 2. Formulario Principal (MDI) y Menú Lateral
 ![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/b7a32372b706f9dc883d7c8f312585518b56a0df/Capturas/frmprincipal.png)
-![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/6a972a95264f11fa2fe4d21122b1fb8d436c33b9/Capturas/Menuretractil.png)
+![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/0157ae73cbb9e0ccb4d971b7450be28e70c6f8de/Capturas/Menuretractil.png)
 
 ### 3. Validaciones de Errores
 ![image alt](https://github.com/neoaji1-svg/Parcial-2-Practico-/blob/2854feeabc77d8a1928c45f93519a6f192eb217c/Capturas/Validacion%201.png)
